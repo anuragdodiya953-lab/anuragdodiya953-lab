@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-**anuragdodiya953-lab/anuragdodiya953-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <h3 align="left">Languages and Tools:</h3>
 <div align="center" style="display:flex; flex-wrap:nowrap; gap:16px; margin-top:12px; overflow-x:auto; padding-bottom:8px;">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>
